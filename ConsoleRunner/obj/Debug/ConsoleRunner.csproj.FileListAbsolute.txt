@@ -1,0 +1,7 @@
+C:\Users\i-roc\AppData\Local\Temporary Projects\ConsoleRunner\bin\Debug\ConsoleRunner.exe.config
+C:\Users\i-roc\Google Drive\Projects\VS2015\ConsoleRunner\ConsoleRunner\bin\Debug\ConsoleRunner.exe.config
+C:\Users\i-roc\Google Drive\Projects\VS2015\ConsoleRunner\ConsoleRunner\bin\Debug\ConsoleRunner.exe
+C:\Users\i-roc\Google Drive\Projects\VS2015\ConsoleRunner\ConsoleRunner\bin\Debug\ConsoleRunner.pdb
+C:\Users\i-roc\Google Drive\Projects\VS2015\ConsoleRunner\ConsoleRunner\obj\Debug\ConsoleRunner.csprojResolveAssemblyReference.cache
+C:\Users\i-roc\Google Drive\Projects\VS2015\ConsoleRunner\ConsoleRunner\obj\Debug\ConsoleRunner.exe
+C:\Users\i-roc\Google Drive\Projects\VS2015\ConsoleRunner\ConsoleRunner\obj\Debug\ConsoleRunner.pdb
